@@ -1,0 +1,36 @@
+[project]
+name = "learn-langchain"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "en-core-web-sm",
+    "langchain[mcp]>=1.4.2",
+    "langchain-deepseek>=1.1.0",
+    "langchain-openai>=1.6.2",
+    "langchain-text-splitters>=1.1.2",
+    "langchain-unstructured>=1.0.1",
+    "python-dotenv>=1.2.3",
+    "unstructured[docx,md]>=0.27.6",
+    "torch",
+    "torchvision",
+    "flagembedding>=1.4.2",
+    "pymilvus>=3.0.2",
+    "mcp>=2.2.0",
+    "langgraph>=1.2.12",
+    "langgraph-checkpoint-postgres>=3.1.2",
+    "psycopg[binary,pool]>=3.3.6",
+]
+
+[tool.uv.sources]
+en-core-web-sm = { url = "https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl" }
+torch = [
+    { index = "pytorch-cuda", marker = "sys_platform == 'win32'" },
+]
+torchvision = [
+    { index = "pytorch-cuda", marker = "sys_platform == 'win32'" },
+]
+
+[[tool.uv.index]]
+name = "pytorch-cuda"
+url = "https://download.pytorch.org/whl/cu130" # 根据显卡选择版本
+explicit = true
