@@ -1,5 +1,15 @@
 # 环境准备
 
+项目根目录下创建 `models` 目录，下载 BGE-M3 模型。
+
+```bash
+mkdir models
+cd modles
+git clone https://www.modelscope.cn/BAAI/bge-m3.git
+```
+
+下载 <a href="https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl">en-core-web-sm</a> 到 `models` 目录下。 
+
 安装依赖：
 
 ```bash
@@ -97,14 +107,6 @@ docker compose up -d
 ```
 
 项目根目录下复制 `.env.example` 并重命名为 `.env` ，写入相应信息 。 
-
-项目根目录下创建 `models` 目录，下载 BGE-M3 模型。
-
-```bash
-mkdir models
-cd modles
-git clone https://www.modelscope.cn/BAAI/bge-m3.git
-```
 
 # 模型调用
 
