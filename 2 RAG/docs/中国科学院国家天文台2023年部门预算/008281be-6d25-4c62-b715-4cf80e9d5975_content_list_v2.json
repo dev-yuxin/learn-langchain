@@ -1,0 +1,2979 @@
+[
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4fe8a2bc8d8cf12fc16ff7f2ba211d19d13020f0e9539e8e543ecca0a0339432.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                203,
+                210,
+                344,
+                279
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "中国种学院国家天文台"
+                    }
+                ]
+            },
+            "bbox": [
+                369,
+                223,
+                811,
+                262
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "NATIONAL ASTRONOMICAL OBSERVATORIES, CAS"
+                    }
+                ]
+            },
+            "bbox": [
+                369,
+                266,
+                813,
+                282
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "中国科学院国家天文台2023 年部门预算"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                273,
+                409,
+                744,
+                501
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3e3c91965cb5b5f7e30df9f3296553c1cd4a8dadbdcd78fe66c20f2aeef1230c.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                252,
+                592,
+                744,
+                816
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "目 录"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                423,
+                87,
+                578,
+                118
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "一、中国科学院国家天文台基本情况....1\n（一）单位职责....1\n（二）机构设置....2\n二、中国科学院国家天文台2023年部门预算....3\n收支总表....4\n关于收支总表的说明....5\n收入总表....6\n关于收入总表的说明....7\n支出总表....8\n关于支出总表的说明....9\n财政拨款收支总表....10\n关于财政拨款收支总表的说明....11\n一般公共预算支出表....12\n关于一般公共预算支出表的说明....13\n一般公共预算基本支出表....14\n关于一般公共预算基本支出表的说明....16\n一般公共预算“三公”经费支出表....17\n关于一般公共预算“三公”经费支出表的说明....18\n政府性基金收支表....19\n国有资本经营预算支出表....20\n三、其他事项说明....21"
+                    }
+                ]
+            },
+            "bbox": [
+                149,
+                124,
+                852,
+                898
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（一）政府采购情况说明 …… 21\n（二）国有资产占有使用情况说明 …… 21\n（三）预算绩效情况说明 …… 21\n四、名词解释 …… 22\n（一）收入科目 …… 22\n（二）支出科目 …… 22\n附表：中国科学院国家天文台项目预算绩效目标表 …… 25"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                90,
+                850,
+                340
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "一、中国科学院国家天文台基本情况"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                196,
+                101,
+                640,
+                124
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "（一）单位职责"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                196,
+                142,
+                384,
+                166
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "中国科学院国家天文台是中国科学院直属事业单位，成立于 2001 年 4 月，系由中国科学院天文领域原两台一所两站整合而成。"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                184,
+                850,
+                278
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "中国科学院国家天文台发展目标是：建设成为集天文学基础前沿研究、天文技术方法创新应用、地基与空间重大天文观测装置建造运行、国家月球与深空探测科学应用和空间碎片监测与应用等“四位一体”的、世界一流水平的综合性国家天文研究机构，引领中国天文事业实现新的跨越，为加快实现国家高水平科技自立自强做出应有贡献，为人类探索宇宙奥秘做出中国贡献。"
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                294,
+                853,
+                527
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "中国科学院国家天文台新时期办台方针是：以“出重大成果、出优秀人才”为中心，规划好、建设好、运行好、使用好重大观测装置和重大任务设施，积极承担并圆满完成相关领域国家重大科技任务，不断推动天文领域重大原创成果产出、关键核心技术突破、天文学人才高地建设和科技体制机制改革。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                543,
+                853,
+                741
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                928,
+                504,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "（二）机构设置"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                196,
+                101,
+                384,
+                124
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "中国科学院国家天文台是国家航天局空间碎片监测与应用中心、国家天文科学数据中心的依托单位，国际空间环境服务组织中国中心主任单位；是中国科学院天文大科学研究中心、南美天文研究中心的依托单位；是中国科学院大学天文与空间科学学院主承办单位。"
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                142,
+                852,
+                306
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "中国科学院国家天文台本部内设有光学天文、射电天文、星系宇宙学、太阳物理、空间科学、月球与深空探测、应用天文等 7 个研究部，8 个管理部门和 2 个支撑部门。在河北兴隆，北京怀柔、密云，天津武清，新疆乌拉斯台、红柳峡、慕士塔格，西藏阿里、羊八井，青海冷湖，贵州平塘以及阿根廷圣胡安等地建有天文观测基地或台站。"
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                322,
+                853,
+                520
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                928,
+                505,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "二、中国科学院国家天文台 2023年部门预算"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                200,
+                101,
+                734,
+                124
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2023 年是深入推进实施“十四五”战略规划、推动“十四五”规划目标实现的关键之年，抢抓机遇争取承担国家重大科技任务，管理运行好重大观测设施，组织做好各类科学数据处理的应用研究工作，努力产出更多更大科学成果。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                143,
+                850,
+                271
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2023 年工作总体思路是：深入学习贯彻党的二十大精神，落实党的全面领导，落实党中央、国务院和院党组重大决策部署，面向国家重大需求、面向国际天文科技前沿、面向经济主战场，加快推进国家“十四五”科技发展规划实施，加快建设和持续推进国家重点实验室重组工作，加快协同凝聚天文领域科研队伍，加强青年人才队伍建设，加快进入高质量发展新阶段，为创新型国家和世界科技强国建设做出更大贡献。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                288,
+                853,
+                555
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "中国科学院国家天文台 2023 年初部门预算总额198,223.16 万元。中国科学院国家天文台部门预算既包括人员支出和机构运行支出，也包括竞争性经费、人才引进与培养、科研条件及后勤保障、合作交流与咨询传播、科普活动、科研设施专项运行等支出。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                570,
+                852,
+                733
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                928,
+                505,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "收支总表"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                442,
+                86,
+                556,
+                108
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "部门公开表 1"
+                    }
+                ]
+            },
+            "bbox": [
+                742,
+                143,
+                847,
+                158
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "单位：万元"
+                    }
+                ]
+            },
+            "bbox": [
+                756,
+                159,
+                847,
+                174
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/ba89f20f6f47a6c5e7d54bc8e5979b84d972638bc97359bb215e6eff205af192.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"2\">收入</td><td colspan=\"2\">支出</td></tr><tr><td>项目</td><td>预算数</td><td>项目</td><td>预算数</td></tr><tr><td>一、一般公共预算拨款收入</td><td>57,806.77</td><td>一、科学技术支出</td><td>143,981.03</td></tr><tr><td>二、政府性基金预算拨款收入</td><td></td><td>二、社会保障和就业支出</td><td>1,930.68</td></tr><tr><td>三、国有资本经营预算拨款</td><td></td><td>三、住房保障支出</td><td>1,314.37</td></tr><tr><td>四、事业收入</td><td>32,000.00</td><td></td><td></td></tr><tr><td>五、事业单位经营收入</td><td></td><td></td><td></td></tr><tr><td>六、其他收入</td><td>2,200.00</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>本年收入合计</td><td>92,006.77</td><td>本年支出合计</td><td>147,226.08</td></tr><tr><td>使用非财政拨款结余</td><td></td><td>结转下年</td><td>50,997.08</td></tr><tr><td>上年结转</td><td>106,216.39</td><td></td><td></td></tr><tr><td>收入总计</td><td>198,223.16</td><td>支出总计</td><td>198,223.16</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                139,
+                174,
+                858,
+                627
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                928,
+                504,
+                939
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "关于收支总表的说明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                374,
+                85,
+                623,
+                108
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "按照部门预算编制要求，单位所有收入和支出均纳入部门预算管理。收入包括：一般公共预算拨款收入、事业收入、其他收入、上年结转。支出包括：科学技术支出、社会保障和就业支出、住房保障支出。我单位 2023 年收支总预算198,223.16 万元。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                143,
+                850,
+                316
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                928,
+                504,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "收入总表"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                458,
+                228,
+                539,
+                257
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "部门公开表 2"
+                    }
+                ]
+            },
+            "bbox": [
+                828,
+                307,
+                904,
+                329
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "单位：万元"
+                    }
+                ]
+            },
+            "bbox": [
+                828,
+                331,
+                894,
+                351
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/7f3a470366dd1f2033d09bed23295ac3f78e5f03f58bd4792ca8dd886d6a1755.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">合计</td><td rowspan=\"2\">上年结转</td><td rowspan=\"2\">一般公共预算拨款收入</td><td rowspan=\"2\">政府性基金预算拨款收入</td><td rowspan=\"2\">国有资本经营预算拨款收入</td><td colspan=\"2\">事业收入</td><td rowspan=\"2\">事业单位经营收入</td><td rowspan=\"2\">上级补助收入</td><td rowspan=\"2\">附属单位上缴收入</td><td rowspan=\"2\">其他收入</td><td rowspan=\"2\">使用非财政拨款结余</td></tr><tr><td>金额</td><td>其中:教育收费</td></tr><tr><td>198,223.16</td><td>106,216.39</td><td>57,806.77</td><td></td><td></td><td>32,000.00</td><td></td><td></td><td></td><td></td><td>2,200.00</td><td></td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                77,
+                349,
+                920,
+                539
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                494,
+                900,
+                504,
+                915
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "关于收入总表的说明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                373,
+                115,
+                623,
+                137
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2023年初，我单位收入总计 198,223.16 万元。其中，一般公共预算拨款收入 57,806.77 万元，占 29.16%；事业收入32,000.00 万元，占 16.14%；其他收入 2,200.00 万元，占 1.11%；上年结转 106,216.39 万元，占 53.59%。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                173,
+                850,
+                309
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                928,
+                504,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "支出总表"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                443,
+                108,
+                556,
+                129
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "部门公开表3"
+                    }
+                ]
+            },
+            "bbox": [
+                754,
+                154,
+                860,
+                168
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "单位：万元"
+                    }
+                ]
+            },
+            "bbox": [
+                771,
+                173,
+                860,
+                187
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1c84a91019e6f86e711518f2d7ecdcbad20502461aa2ae8266d5d21af2aee37e.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>科目编码</td><td>科目名称</td><td>合计</td><td>基本支出</td><td>项目支出</td></tr><tr><td>206</td><td>科学技术支出</td><td>143,981.03</td><td>16,362.47</td><td>127,618.56</td></tr><tr><td>20602</td><td>基础研究</td><td>100,542.25</td><td>16,362.47</td><td>84,179.78</td></tr><tr><td>2060201</td><td>机构运行</td><td>16,362.47</td><td>16,362.47</td><td>-</td></tr><tr><td>2060203</td><td>自然科学基金</td><td>6,000.00</td><td>-</td><td>6,000.00</td></tr><tr><td>2060205</td><td>重大科学工程</td><td>16,158.00</td><td>-</td><td>16,158.00</td></tr><tr><td>2060206</td><td>专项基础科研</td><td>14,359.75</td><td>-</td><td>14,359.75</td></tr><tr><td>2060299</td><td>其他基础研究支出</td><td>47,662.03</td><td>-</td><td>47,662.03</td></tr><tr><td>20603</td><td>应用研究</td><td>19,053.95</td><td>-</td><td>19,053.95</td></tr><tr><td>20605</td><td>科技条件与服务</td><td>5,728.68</td><td>-</td><td>5,728.68</td></tr><tr><td>2060503</td><td>科技条件专项</td><td>5,728.68</td><td>-</td><td>5,728.68</td></tr><tr><td>20608</td><td>科技交流与合作</td><td>1,977.14</td><td>-</td><td>1,977.14</td></tr><tr><td>2060801</td><td>国际交流与合作</td><td>1,977.14</td><td>-</td><td>1,977.14</td></tr><tr><td>20609</td><td>科技重大专项</td><td>16,679.01</td><td>-</td><td>16,679.01</td></tr><tr><td>208</td><td>社会保障和就业支出</td><td>1,930.68</td><td>1,930.68</td><td>-</td></tr><tr><td>20805</td><td>行政事业单位养老支出</td><td>1,930.68</td><td>1,930.68</td><td>-</td></tr><tr><td>2080505</td><td>机关事业单位基本养老保险缴费支出</td><td>1,287.12</td><td>1,287.12</td><td>-</td></tr><tr><td>2080506</td><td>机关事业单位职业年金缴费支出</td><td>643.56</td><td>643.56</td><td>-</td></tr><tr><td>221</td><td>住房保障支出</td><td>1,314.37</td><td>1,314.37</td><td>-</td></tr><tr><td>22102</td><td>住房改革支出</td><td>1,314.37</td><td>1,314.37</td><td>-</td></tr><tr><td>2210201</td><td>住房公积金</td><td>707.85</td><td>707.85</td><td>-</td></tr><tr><td>2210202</td><td>提租补贴</td><td>92.45</td><td>92.45</td><td>-</td></tr><tr><td>2210203</td><td>购房补贴</td><td>514.07</td><td>514.07</td><td>-</td></tr><tr><td colspan=\"2\">合计</td><td>147,226.08</td><td>19,607.52</td><td>127,618.56</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                137,
+                187,
+                858,
+                851
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                916,
+                504,
+                928
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "关于支出总表的说明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                373,
+                107,
+                623,
+                130
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2023年初，我单位支出总计 147,226.08 万元。其中，基本支出 19,607.52 万元，占 13.32%；项目支出 127,618.56 万元，占 86.68%。"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                160,
+                850,
+                258
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                928,
+                504,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "财政拨款收支总表"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                388,
+                108,
+                610,
+                130
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "部门公开表4"
+                    }
+                ]
+            },
+            "bbox": [
+                739,
+                154,
+                845,
+                168
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "单位：万元"
+                    }
+                ]
+            },
+            "bbox": [
+                757,
+                173,
+                848,
+                187
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/ac66ce3b55bfc6efad5d802d07abb429ec05eaad45d1a542b6a8fc1fa7c32d69.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"2\">收入</td><td colspan=\"2\">支出</td></tr><tr><td>项目</td><td>预算数</td><td>项目</td><td>预算数</td></tr><tr><td>一、本年收入</td><td>57,806.77</td><td>一、本年支出</td><td>121,226.08</td></tr><tr><td>(一)一般公共预算财政拨款</td><td>57,806.77</td><td>(一)科学技术支出</td><td>117,981.03</td></tr><tr><td>(二)政府性基金预算财政拨款</td><td></td><td>(二)社会保障和就业支出</td><td>1,930.68</td></tr><tr><td>(三)国有资本经营预算拨款</td><td></td><td>(三)住房保障支出</td><td>1,314.37</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>二、上年结转</td><td>63,419.31</td><td>二、结转下年</td><td></td></tr><tr><td>(一)一般公共预算财政拨款</td><td>63,419.31</td><td></td><td></td></tr><tr><td>(二)政府性基金预算财政拨款</td><td></td><td></td><td></td></tr><tr><td>(三)国有资本经营预算拨款</td><td></td><td></td><td></td></tr><tr><td>收入总计</td><td>121,226.08</td><td>支出总计</td><td>121,226.08</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                139,
+                189,
+                858,
+                608
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10"
+                    }
+                ]
+            },
+            "bbox": [
+                490,
+                928,
+                509,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "关于财政拨款收支总表的说明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                319,
+                91,
+                678,
+                115
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "（一）收入预算"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                196,
+                146,
+                384,
+                168
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2023 年初，一般公共预算拨款收入预算数为 57,806.77万元；上年结转 63,419.31万元。"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                191,
+                850,
+                249
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "（二）支出预算"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                196,
+                268,
+                384,
+                291
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2023年初，科学技术支出预算数为 117,981.03 万元；社会保障和就业支出预算数为 1,930.68 万元；住房保障支出预算数为 1,314.37 万元。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                312,
+                853,
+                406
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "11"
+                    }
+                ]
+            },
+            "bbox": [
+                490,
+                928,
+                507,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "一般公共预算支出表"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                374,
+                85,
+                623,
+                108
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "部门公开表 5"
+                    }
+                ]
+            },
+            "bbox": [
+                744,
+                143,
+                850,
+                158
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "单位：万元"
+                    }
+                ]
+            },
+            "bbox": [
+                757,
+                159,
+                850,
+                174
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/2254703a6b821621ef05abb53b90168f976e486a0fdf960948021484dfbb9335.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">科目编码</td><td rowspan=\"2\">科目名称</td><td colspan=\"3\">本年一般公共预算支出</td></tr><tr><td>合计</td><td>基本支出</td><td>项目支出</td></tr><tr><td>206</td><td>科学技术支出</td><td>54,561.72</td><td>10,362.47</td><td>44,199.25</td></tr><tr><td>20602</td><td>基础研究</td><td>45,158.07</td><td>10,362.47</td><td>34,795.60</td></tr><tr><td>2060201</td><td>机构运行</td><td>10,362.47</td><td>10,362.47</td><td>-</td></tr><tr><td>2060205</td><td>重大科学工程</td><td>16,158.00</td><td>-</td><td>16,158.00</td></tr><tr><td>2060206</td><td>专项基础科研</td><td>3,765.48</td><td>-</td><td>3,765.48</td></tr><tr><td>2060299</td><td>其他基础研究支出</td><td>14,872.12</td><td>-</td><td>14,872.12</td></tr><tr><td>20603</td><td>应用研究</td><td>640.00</td><td>-</td><td>640.00</td></tr><tr><td>20605</td><td>科技条件与服务</td><td>3,686.51</td><td>-</td><td>3,686.51</td></tr><tr><td>2060503</td><td>科技条件专项</td><td>3,686.51</td><td>-</td><td>3,686.51</td></tr><tr><td>20608</td><td>科技交流与合作</td><td>1,977.14</td><td>-</td><td>1,977.14</td></tr><tr><td>2060801</td><td>国际交流与合作</td><td>1,977.14</td><td>-</td><td>1,977.14</td></tr><tr><td>20609</td><td>科技重大专项</td><td>3,100.00</td><td>-</td><td>3,100.00</td></tr><tr><td>208</td><td>社会保障和就业支出</td><td>1,930.68</td><td>1,930.68</td><td>-</td></tr><tr><td>20805</td><td>行政事业单位养老支出</td><td>1,930.68</td><td>1,930.68</td><td>-</td></tr><tr><td>2080505</td><td>机关事业单位基本养老保险缴费支出</td><td>1,287.12</td><td>1,287.12</td><td>-</td></tr><tr><td>2080506</td><td>机关事业单位职业年金缴费支出</td><td>643.56</td><td>643.56</td><td>-</td></tr><tr><td>221</td><td>住房保障支出</td><td>1,314.37</td><td>1,314.37</td><td>-</td></tr><tr><td>22102</td><td>住房改革支出</td><td>1,314.37</td><td>1,314.37</td><td>-</td></tr><tr><td>2210201</td><td>住房公积金</td><td>707.85</td><td>707.85</td><td>-</td></tr><tr><td>2210202</td><td>提租补贴</td><td>92.45</td><td>92.45</td><td>-</td></tr><tr><td>2210203</td><td>购房补贴</td><td>514.07</td><td>514.07</td><td>-</td></tr><tr><td colspan=\"2\">合计</td><td>57,806.77</td><td>13,607.52</td><td>44,199.25</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                137,
+                173,
+                858,
+                903
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "12"
+                    }
+                ]
+            },
+            "bbox": [
+                490,
+                916,
+                509,
+                928
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "关于一般公共预算支出表的说明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                305,
+                85,
+                690,
+                108
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2023年，按照党中央、国务院过“紧日子”要求，厉行节约办一切事业，压减一般性、非刚性支出，重点压减了公用经费支出，合理保障了重大支出需求。2023年初，我单位一般公共预算支出 57,806.77 万元，其中：基本支出 13,607.52万元，占 23.54%；项目支出 44,199.25 万元，占 76.46%。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                152,
+                853,
+                315
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "13"
+                    }
+                ]
+            },
+            "bbox": [
+                490,
+                915,
+                509,
+                928
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "一般公共预算基本支出表"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                391,
+                173,
+                607,
+                206
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "部门公开表 6"
+                    }
+                ]
+            },
+            "bbox": [
+                822,
+                253,
+                898,
+                275
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "单位：万元"
+                    }
+                ]
+            },
+            "bbox": [
+                834,
+                278,
+                900,
+                297
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/503b1a499a50e2195fbff1692eea3409f9b780acf66a7f6930f577533c78a525.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"3\">人员经费</td><td colspan=\"6\">公用经费</td></tr><tr><td>科目编码</td><td>科目名称</td><td>预算数</td><td>科目编码</td><td>科目名称</td><td>日常公用经费</td><td>科目编码</td><td>科目名称</td><td>日常公用经费</td></tr><tr><td>301</td><td>工资福利支出</td><td>11,398.40</td><td>302</td><td>商品和服务支出</td><td>1,424.12</td><td>310</td><td>资本性支出</td><td>125.00</td></tr><tr><td>30101</td><td>基本工资</td><td>2,310.00</td><td>30201</td><td>办公费</td><td>10.00</td><td>31002</td><td>办公设备购置</td><td>55.00</td></tr><tr><td>30102</td><td>津贴补贴</td><td>1,859.87</td><td>30202</td><td>印刷费</td><td>2.00</td><td>31099</td><td>其他资本性支出</td><td>70.00</td></tr><tr><td>30106</td><td>伙食补助费</td><td>120.00</td><td>30203</td><td>咨询费</td><td>8.00</td><td></td><td></td><td></td></tr><tr><td>30107</td><td>绩效工资</td><td>1,800.00</td><td>30204</td><td>手续费</td><td>6.00</td><td></td><td></td><td></td></tr><tr><td>30108</td><td>机关事业单位基本养老保险缴费</td><td>1,364.12</td><td>30205</td><td>水费</td><td>9.00</td><td></td><td></td><td></td></tr><tr><td>30109</td><td>职业年金缴费</td><td>566.56</td><td>30206</td><td>电费</td><td>200.00</td><td></td><td></td><td></td></tr><tr><td>30110</td><td>职工基本医疗保险缴费</td><td>180.00</td><td>30207</td><td>邮电费</td><td>18.00</td><td></td><td></td><td></td></tr><tr><td>30112</td><td>其他社会保障缴费</td><td>270.00</td><td>30208</td><td>取暖费</td><td>28.00</td><td></td><td></td><td></td></tr><tr><td>30113</td><td>住房公积金</td><td>1,407.85</td><td>30209</td><td>物业管理费</td><td>346.00</td><td></td><td></td><td></td></tr><tr><td>30114</td><td>医疗费</td><td>530.00</td><td>30211</td><td>差旅费</td><td>30.00</td><td></td><td></td><td></td></tr><tr><td>30199</td><td>其他工资福利支出</td><td>990.00</td><td>30213</td><td>维修(护)费</td><td>60.00</td><td></td><td></td><td></td></tr><tr><td>303</td><td>对个人和家庭的补助</td><td>660.00</td><td>30214</td><td>租赁费</td><td>5.00</td><td></td><td></td><td></td></tr><tr><td>30301</td><td>离休费</td><td>120.00</td><td>30215</td><td>会议费</td><td>13.00</td><td></td><td></td><td></td></tr><tr><td>30302</td><td>退休费</td><td>142.00</td><td>30216</td><td>培训费</td><td>10.00</td><td></td><td></td><td></td></tr><tr><td>30304</td><td>抚恤金</td><td>240.00</td><td>30218</td><td>专用材料费</td><td>10.00</td><td></td><td></td><td></td></tr><tr><td>30305</td><td>生活补助</td><td>3.00</td><td>30226</td><td>劳务费</td><td>50.00</td><td></td><td></td><td></td></tr><tr><td>30308</td><td>助学金</td><td>5.00</td><td>30227</td><td>委托业务费</td><td>20.00</td><td></td><td></td><td></td></tr><tr><td>30309</td><td>奖励金</td><td>20.00</td><td>30228</td><td>工会经费</td><td>247.99</td><td></td><td></td><td></td></tr><tr><td>30399</td><td>其他对个人和家庭的补助</td><td>130.00</td><td>30231</td><td>公务用车运行维护费</td><td>57.13</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>30239</td><td>其他交通费用</td><td>20.00</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>30240</td><td>税金及附加费用</td><td>10.00</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>30299</td><td>其他商品和服务支出</td><td>264.00</td><td></td><td></td><td></td></tr><tr><td></td><td>人员经费合计</td><td>12,058.40</td><td></td><td></td><td></td><td></td><td>公用经费合计</td><td>1,549.12</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                61,
+                297,
+                932,
+                823
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "14"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                882,
+                506,
+                897
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                61,
+                147,
+                932,
+                593
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "15"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                900,
+                507,
+                915
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "关于一般公共预算基本支出表的说明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                278,
+                85,
+                717,
+                108
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "我单位 2023 年初一般公共预算基本支出 13,607.52 万元。其中："
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                143,
+                850,
+                204
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（一）人员经费 12,058.40 万元，主要包括基本工资、津贴补贴、伙食补助费、绩效工资、机关事业单位基本养老保险缴费、职业年金缴费、职工基本医疗保险缴费、其他社会保障缴费、住房公积金、医疗费、其他工资福利支出、离休费、退休费、抚恤金、生活补助、助学金、奖励金、其他对个人和家庭的补助支出。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                217,
+                852,
+                426
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（二）日常公用经费 1,549.12 万元，主要包括办公费、印刷费、咨询费、手续费、水费、电费、邮电费、取暖费、物业管理费、差旅费、维修（护）费、租赁费、会议费、培训费、专用材料费、劳务费、委托业务费、工会经费、公务用车运行维护费、其他交通费用、税金及附加费用、其他商品和服务支出、办公设备购置、其他资本性支出。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                439,
+                850,
+                650
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "16"
+                    }
+                ]
+            },
+            "bbox": [
+                490,
+                928,
+                510,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "一般公共预算“三公”经费支出表"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                363,
+                173,
+                636,
+                206
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "部门公开表 7"
+                    }
+                ]
+            },
+            "bbox": [
+                825,
+                253,
+                902,
+                275
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "单位：万元"
+                    }
+                ]
+            },
+            "bbox": [
+                835,
+                277,
+                902,
+                297
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/3a660fece00084f46dae881282f9366a96dbd1fc51ceebe0efb6db27f8882583.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"6\">2022年预算数</td><td colspan=\"6\">2023年预算数</td></tr><tr><td rowspan=\"2\">合计</td><td rowspan=\"2\">因公出国(境)费</td><td colspan=\"3\">公务用车购置及运行费</td><td rowspan=\"2\">公务接待费</td><td rowspan=\"2\">合计</td><td rowspan=\"2\">因公出国(境)费</td><td colspan=\"3\">公务用车购置及运行费</td><td rowspan=\"2\">公务接待费</td></tr><tr><td>小计</td><td>公务用车购置费</td><td>公务用车运行费</td><td>小计</td><td>公务用车购置费</td><td>公务用车运行费</td></tr><tr><td>202.13</td><td>0.00</td><td>192.13</td><td>70</td><td>122.13</td><td>10</td><td>132.13</td><td>0.00</td><td>122.13</td><td>0.00</td><td>122.13</td><td>10.00</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                77,
+                297,
+                919,
+                579
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注：根据《中共中央办公厅 国务院办公厅关于转发中央组织部、中央外办等部门<关于加强和改进教学科研人员因公临时出国管理工作的指导意见>的通知》（厅字〔2016〕17号），从2017年起，教学科研人员因公临时出国开展学术交流合作经费实行区别管理，不纳入中央部门“三公”经费预算。"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                600,
+                916,
+                678
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "17"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                899,
+                506,
+                915
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "关于一般公共预算“三公”经费支出表的说明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                228,
+                85,
+                751,
+                109
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "我单位认真贯彻落实党中央、国务院有关过“紧日子”和坚持厉行节约反对浪费的要求，切实采取措施，严格控制“三公”经费支出。2023年“三公”经费预算数为 132.13万元。"
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                137,
+                863,
+                237
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "根据《中共中央办公厅国务院办公厅关于转发中央组织部、中央外办等部门<关于加强和改进教学科研人员因公临时出国管理工作的指导意见>的通知》（厅字〔2016〕17 号），从 2017年起，教学科研人员因公临时出国（境）开展学术交流合作经费实行区别管理，不纳入中央部门“三公”经费预算。我单位教学科研人员因公临时出国（境）开展学术交流合作，实行严格审批制度。公务用车购置及运行费 2023年预算 122.13 万元，我单位在河北兴隆，北京密云、怀柔，天津武青，新疆乌拉斯台、巴里坤，西藏阿里、羊八井，贵州大窝凼等地建有观测台站，公务用车预算主要用于野外科学考察用车的运行支出，其中公车运行维护费122.13 万元。公务接待费 2023 年预算 10.00 万元，主要用于国内外科技交流与合作的公务接待支出。"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                250,
+                865,
+                683
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "18"
+                    }
+                ]
+            },
+            "bbox": [
+                490,
+                928,
+                509,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "政府性基金收支表"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                379,
+                86,
+                601,
+                108
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "部门公开表 8"
+                    }
+                ]
+            },
+            "bbox": [
+                774,
+                133,
+                878,
+                147
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "单位：万元"
+                    }
+                ]
+            },
+            "bbox": [
+                786,
+                151,
+                878,
+                166
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/e9f6ece82bca242ad321b1c0295027ae60f49f5b1e70304607473ad8054bbbeb.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注：中国科学院国家天文台无政府性基金收入。"
+                    }
+                ],
+                "html": "<table><tr><td rowspan=\"2\">科目编码</td><td rowspan=\"2\">科目名称</td><td colspan=\"3\">2023年政府性基金预算支出</td></tr><tr><td>合计</td><td>基本支出</td><td>项目支出</td></tr><tr><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td colspan=\"2\">合计</td><td>-</td><td>-</td><td>-</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                109,
+                167,
+                887,
+                280
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "19"
+                    }
+                ]
+            },
+            "bbox": [
+                490,
+                928,
+                509,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "国有资本经营预算支出表"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                339,
+                70,
+                642,
+                93
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "部门公开表 9"
+                    }
+                ]
+            },
+            "bbox": [
+                749,
+                117,
+                855,
+                131
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "单位：万元"
+                    }
+                ]
+            },
+            "bbox": [
+                761,
+                136,
+                855,
+                149
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1afa79995903d752fc2cc5e6d6c6f8c4318efabcc203f078a36cc3385b6cef80.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注：中国科学院国家天文台 2023年没有使用国有资本经营预算安排的支出。"
+                    }
+                ],
+                "html": "<table><tr><td rowspan=\"2\">科目编码</td><td rowspan=\"2\">科目名称</td><td colspan=\"3\">2023年国有资本经营预算支出</td></tr><tr><td>小计</td><td>基本支出</td><td>项目支出</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"2\">合计</td><td></td><td></td><td></td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                109,
+                151,
+                887,
+                258
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "20"
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                928,
+                509,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "三、其他事项说明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                211,
+                102,
+                438,
+                127
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "（一）政府采购情况说明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                194,
+                146,
+                490,
+                170
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "我单位2023年政府采购预算总额25,970.10万元，其中：政府采购货物预算 11,288.10 万元、政府采购工程预算10,676.00 万元、政府采购服务预算 4,006.00 万元。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                191,
+                842,
+                285
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "（二）国有资产占有使用情况说明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                194,
+                303,
+                600,
+                326
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "截至 2022 年 8月 31 日，我单位共有车辆44 辆，其中，其他用车 44 辆，其他用车主要是野外台站、观测、采集及试验等科研业务用车。单位价值 100 万元以上设备 223 台（套）。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                347,
+                842,
+                474
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2023 年部门预算安排购置车辆 6 辆，其中其他用车 6辆（主要为科研业务用车）；单位价值 100 万元以上设备38 台（套）。"
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                483,
+                845,
+                582
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "（三）预算绩效情况说明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                194,
+                605,
+                490,
+                627
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2023 年对我单位项目支出全面实施绩效目标管理，涉及预算拨款 44,199.25 万元，其中：一般公共预算拨款44,199.25万元、政府性基金预算拨款 0.00万元。"
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                649,
+                842,
+                743
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "21"
+                    }
+                ]
+            },
+            "bbox": [
+                487,
+                927,
+                507,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "四、名词解释"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                196,
+                103,
+                373,
+                127
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（一）收入科目"
+                    }
+                ]
+            },
+            "bbox": [
+                194,
+                146,
+                379,
+                170
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 一般公共预算拨款收入：指中央财政当年拨付的资金。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                191,
+                840,
+                250
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2.事业收入：指事业单位开展专业业务活动及辅助活动所取得的收入。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                268,
+                842,
+                328
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3.事业单位经营收入：指事业单位在专业业务活动及其辅助活动之外开展非独立核算经营活动取得的收入。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                347,
+                840,
+                406
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4.其他收入：指除上述“一般公共预算拨款收入”、 “事业收入”、 “事业单位经营收入”等以外的收入。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                424,
+                842,
+                485
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5.上年结转：指以前年度尚未完成、结转到本年仍按原规定用途继续使用的资金。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                502,
+                840,
+                563
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "（二）支出科目"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                194,
+                581,
+                379,
+                605
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1.科学技术支出（类）：反映用于科学技术方面的支出，中国科学院预算中主要涉及基础研究、应用研究、技术研究与开发、科技条件与服务、科技交流与合作、其他科学技术支出等款级支出科目。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                625,
+                842,
+                753
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（1）基础研究：反映从事基础研究、近期无法取得实用价值的应用研究机构的支出、专项科学研究支出，以及重点实验室、重大科学工程的支出。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                772,
+                842,
+                866
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（2）应用研究：反映在基础研究成果上，针对某一特定"
+                    }
+                ]
+            },
+            "bbox": [
+                194,
+                884,
+                842,
+                909
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "22"
+                    }
+                ]
+            },
+            "bbox": [
+                487,
+                927,
+                509,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "的实际目的或目标进行的创造性研究工作的支出。"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                93,
+                727,
+                118
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（3）科技条件与服务：反映用于完善科技条件及从事科技标准、计量和检测，科技数据、种质资源、标本、基因的收集、加工处理和服务，科技文献信息资源的采集、保存、加工和服务等为科技活动提供基础性、通用性服务的支出。"
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                137,
+                842,
+                267
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（4）科技交流与合作：反映科技交流与合作等方面的支出，包括为提升国家科技水平与国外政府和国际组织开展合作研究、科技交流方面的支出，以及重大国际科技合作专项支出等。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                284,
+                843,
+                414
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（5）科技重大项目：反映用于科技重大专项等有关经费的支出。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                431,
+                840,
+                492
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2.社会保障和就业支出（类）：反映用于在社会保障和就业方面的支出。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                508,
+                842,
+                569
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3.住房保障支出（类）：反映用于住房方面的支出，中国科学院预算中主要涉及住房改革支出 1 个“款”级科目。住房改革支出包括三项：住房公积金、提租补贴和购房补贴。其中：住房公积金是按照《住房公积金管理条例》的规定，由单位及其在职职工缴存的长期住房储金。提租补贴是经国务院批准，于 2000 年开始针对在京中央单位公用住房租金标准提高发放的补贴，中央在京单位按照在职在编职工人数和离退休人数及相应职级的补贴标准确定。购房补贴是根据《国务院关于进一步深化城镇住房制度改革加快住房建设的通知》（国发〔1998〕23 号）的规定，从 1998年下半年停止实物分房后，对无房和住房未达标职工发放的住房分配货币化改革补贴资金。"
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                588,
+                843,
+                890
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "23"
+                    }
+                ]
+            },
+            "bbox": [
+                487,
+                927,
+                509,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                144,
+                93,
+                842,
+                187
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4.结转下年：指以前年度预算安排、因客观条件发生变化无法按原计划实施，需延迟到以后年度按原规定用途继续使用的资金。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                206,
+                842,
+                300
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "24"
+                    }
+                ]
+            },
+            "bbox": [
+                487,
+                928,
+                509,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "附表：中国科学院国家天文台项目预算绩效目标表"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                147,
+                92,
+                746,
+                115
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "项目绩效目标表"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                401,
+                141,
+                596,
+                162
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(2023 年度)"
+                    }
+                ]
+            },
+            "bbox": [
+                447,
+                181,
+                552,
+                199
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/30630810fa4c28b6596391a47463ae27e39d1a00342afde1dafe5587d5a64757.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"2\">项目名称</td><td colspan=\"5\">国家重大科学工程运行维护</td></tr><tr><td colspan=\"2\">主管部门及代码</td><td colspan=\"2\">[173]中国科学院</td><td>实施单位</td><td colspan=\"2\">中国科学院国家天文台本级</td></tr><tr><td rowspan=\"4\" colspan=\"2\">项目资金(万元)</td><td colspan=\"2\">年度资金总额:</td><td colspan=\"2\">16,158.00</td><td rowspan=\"4\">执行率分值(10)</td></tr><tr><td colspan=\"2\">其中:财政拨款</td><td colspan=\"2\">16,158.00</td></tr><tr><td colspan=\"2\">上年结转资金</td><td colspan=\"2\">0.00</td></tr><tr><td colspan=\"2\">其他资金</td><td colspan=\"2\">0.00</td></tr><tr><td>年度总体目标</td><td colspan=\"6\">1.保障设施按计划实现安全稳定高效运行和日常维护工作;2.保障设施的开放共享,为广大用户提供机时和数据服务。</td></tr><tr><td rowspan=\"7\">绩效指标</td><td>一级指标</td><td>二级指标</td><td colspan=\"2\">三级指标</td><td>指标值</td><td>分值权重(90)</td></tr><tr><td rowspan=\"4\">产出指标</td><td>数量指标</td><td colspan=\"2\">FAST观测时间</td><td>≥5000小时</td><td>20</td></tr><tr><td>数量指标</td><td colspan=\"2\">FAST数据获取量</td><td>≥8PB</td><td>10</td></tr><tr><td>数量指标</td><td colspan=\"2\">LAMOST观测时间</td><td>≥1000小时</td><td>10</td></tr><tr><td>质量指标</td><td colspan=\"2\">LAMOST高信噪比光谱数</td><td>≥1000000条</td><td>10</td></tr><tr><td>效益指标</td><td>社会效益指标</td><td colspan=\"2\">发挥公共平台作用,实现开发共享</td><td>LAMOST定期全球发布数据,FAST定期征集观测申请</td><td>30</td></tr><tr><td>满意度指标</td><td>服务对象满意度指标</td><td colspan=\"2\">顾客满意度</td><td>≥92%</td><td>10</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                147,
+                204,
+                868,
+                866
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "25"
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                928,
+                509,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "项目绩效目标表"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                401,
+                104,
+                596,
+                124
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(2023 年度)"
+                    }
+                ]
+            },
+            "bbox": [
+                447,
+                145,
+                551,
+                161
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/3e70848f72de8dee904677a05d79357da36383a99919c5ff49a75467d37d1ac9.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"2\">项目名称</td><td colspan=\"5\">基本科研业务费</td></tr><tr><td colspan=\"2\">主管部门及代码</td><td colspan=\"2\">[173]中国科学院</td><td>实施单位</td><td colspan=\"2\">中国科学院国家天文台本级</td></tr><tr><td rowspan=\"4\" colspan=\"2\">项目资金(万元)</td><td colspan=\"2\">年度资金总额:</td><td colspan=\"2\">6098.11</td><td rowspan=\"4\">执行率分值(10)</td></tr><tr><td colspan=\"2\">其中:财政拨款</td><td colspan=\"2\">1865.48</td></tr><tr><td colspan=\"2\">上年结转资金</td><td colspan=\"2\">4232.63</td></tr><tr><td colspan=\"2\">其他资金</td><td colspan=\"2\">0.00</td></tr><tr><td>年度总体目标</td><td colspan=\"6\">FAST科学研究取得阶段性成果,依托LAMOST望远镜获得系列高显示度成果;提升部分望远镜和探测设备的性能,保障和提高其科学发现能力;取得部分关键探测技术的进步;拓展获得高质量观测数据和先进天文探测技术与创新思想的空间;推进与国内大学的协同创新工作,支持高校开展天文学教育和研究,吸引更多青年人才加入天文研究。</td></tr><tr><td rowspan=\"4\">绩效指标</td><td>一级指标</td><td>二级指标</td><td colspan=\"2\">三级指标</td><td>指标值</td><td>分值权重(90)</td></tr><tr><td>产出指标</td><td>数量指标</td><td colspan=\"2\">发表文章数</td><td>&gt;100篇</td><td>50</td></tr><tr><td>效益指标</td><td>社会效益指标</td><td colspan=\"2\">带动学科发展</td><td>与国内有天文系的十几所高校建立合作,共同提高我国天文学研究水平</td><td>30</td></tr><tr><td>满意度指标</td><td>服务对象满意度指标</td><td colspan=\"2\">服务对象满意度</td><td>≥90%</td><td>10</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                147,
+                167,
+                868,
+                722
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "26"
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                928,
+                509,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "项目绩效目标表"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                401,
+                103,
+                596,
+                124
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(2023 年度)"
+                    }
+                ]
+            },
+            "bbox": [
+                447,
+                145,
+                551,
+                161
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/c7923f120087069fab7e57d393698ead20122555b46b9cb7f6e1810453950e4c.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"2\">项目名称</td><td colspan=\"5\">人才支撑体系专项</td></tr><tr><td colspan=\"2\">主管部门及代码</td><td colspan=\"2\">[173]中国科学院</td><td>实施单位</td><td colspan=\"2\">中国科学院国家天文台本级</td></tr><tr><td rowspan=\"4\" colspan=\"2\">项目资金(万元)</td><td colspan=\"2\">年度资金总额:</td><td colspan=\"2\">2,104.32</td><td rowspan=\"4\">执行率分值(10)</td></tr><tr><td colspan=\"2\">其中:财政拨款</td><td colspan=\"2\">2,104.32</td></tr><tr><td colspan=\"2\">上年结转资金</td><td colspan=\"2\">0.00</td></tr><tr><td colspan=\"2\">其他资金</td><td colspan=\"2\">0.00</td></tr><tr><td>年度总体目标</td><td colspan=\"6\">1.举办午间学术沙龙2.举办青促会系列学术报告3.举办青促会交流考察活动</td></tr><tr><td rowspan=\"4\">绩效指标</td><td>一级指标</td><td>二级指标</td><td colspan=\"2\">三级指标</td><td>指标值</td><td>分值权重(90)</td></tr><tr><td>产出指标</td><td>数量指标</td><td colspan=\"2\">午间学术沙龙</td><td>≥6次</td><td>50</td></tr><tr><td>效益指标</td><td>社会效益指标</td><td colspan=\"2\">促进青年科研人员发展</td><td>激发青年科技人才创新活力</td><td>30</td></tr><tr><td>满意度指标</td><td>服务对象满意度指标</td><td colspan=\"2\">服务对象满意度</td><td>≥90%</td><td>10</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                147,
+                166,
+                868,
+                684
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "27"
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                928,
+                507,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "项目绩效目标表"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                401,
+                103,
+                596,
+                124
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(2023 年度)"
+                    }
+                ]
+            },
+            "bbox": [
+                447,
+                143,
+                551,
+                161
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/d3d8cc79ace43e6b4f3932de8a0b68dff39f7a2c225c41ab9886c5bdad61084c.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"2\">项目名称</td><td colspan=\"4\">多尺度离散模拟计算系统</td></tr><tr><td colspan=\"2\">主管部门及代码</td><td>[173]中国科学院</td><td>实施单位</td><td colspan=\"2\">中国科学院国家天文台本级</td></tr><tr><td rowspan=\"4\" colspan=\"2\">项目资金(万元)</td><td>年度资金总额:</td><td colspan=\"2\">500.00</td><td rowspan=\"4\">执行率分值(10)</td></tr><tr><td>其中:财政拨款</td><td colspan=\"2\">500.00</td></tr><tr><td>上年结转资金</td><td colspan=\"2\">0.00</td></tr><tr><td>其他资金</td><td colspan=\"2\">0.00</td></tr><tr><td>年度总体目标</td><td colspan=\"5\">项目主要采购多尺度离散模拟计算系统设备一套,以满足天文科研项目开展过程中涉及的大规模数据处理相关的计算与存储需求。多尺度离散模拟计算系统主要包括登陆节点,管理节点各1个,通用计算节点38个,大内存计算节点1个,异构计算节点1个,高速网络交换机一台,集群管理与作业调度系统软件一套及设备的部署与调试。多尺度离散模拟计算系统总体目标包括总计算核数不少于2500核,总内存不少于20TB,异构GPU计算卡不少于8块,具有内存不低于2TB的大内存计算节点,有效存储空间不少于2PB。</td></tr><tr><td rowspan=\"6\">绩效指标</td><td>一级指标</td><td>二级指标</td><td>三级指标</td><td>指标值</td><td>分值权重(90)</td></tr><tr><td>成本指标</td><td>经济成本指标</td><td>项目成本</td><td>≤500万元</td><td>20</td></tr><tr><td rowspan=\"2\">产出指标</td><td>数量指标</td><td>设备验收合格率</td><td>100%</td><td>20</td></tr><tr><td>数量指标</td><td>购置设备数量</td><td>1台</td><td>20</td></tr><tr><td>效益指标</td><td>社会效益指标</td><td>向所外开放共享的设备占比</td><td>100%</td><td>20</td></tr><tr><td>满意度指标</td><td>服务对象满意度指标</td><td>设备用户满意度</td><td>≥90%</td><td>10</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                147,
+                167,
+                868,
+                790
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "28"
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                928,
+                509,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "项目绩效目标表"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                401,
+                103,
+                596,
+                126
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(2023 年度)"
+                    }
+                ]
+            },
+            "bbox": [
+                447,
+                143,
+                551,
+                161
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/7fcb5b971a8638b5425c46eb3680ecc7c44d8545009f63c88672c5d899025573.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"2\">项目名称</td><td colspan=\"5\">2.16米望远镜本体升级改造</td></tr><tr><td colspan=\"2\">主管部门及代码</td><td colspan=\"2\">[173]中国科学院</td><td colspan=\"2\">实施单位</td><td>中国科学院国家天文台本级</td></tr><tr><td rowspan=\"4\" colspan=\"2\">项目资金(万元)</td><td colspan=\"2\">年度资金总额:</td><td colspan=\"2\">138.00</td><td rowspan=\"4\">执行率分值(10)</td></tr><tr><td colspan=\"2\">其中:财政拨款</td><td colspan=\"2\">138.00</td></tr><tr><td colspan=\"2\">上年结转资金</td><td colspan=\"2\">0.00</td></tr><tr><td colspan=\"2\">其他资金</td><td colspan=\"2\">0.00</td></tr><tr><td>年度总体目标</td><td colspan=\"6\">对2.16米望远镜望远镜本体的机电部分进行更新换代,以保证望远镜能够处于一个良好的运行状态,从而降低故障率,提升观测效率。</td></tr><tr><td rowspan=\"6\">绩效指标</td><td>一级指标</td><td>二级指标</td><td colspan=\"2\">三级指标</td><td>指标值</td><td>分值权重(90)</td></tr><tr><td>成本指标</td><td>经济成本指标</td><td colspan=\"2\">项目成本</td><td>≤138万元</td><td>20</td></tr><tr><td rowspan=\"2\">产出指标</td><td>数量指标</td><td colspan=\"2\">设备验收合格率</td><td>100%</td><td>20</td></tr><tr><td>数量指标</td><td colspan=\"2\">购置设备数量</td><td>6台</td><td>20</td></tr><tr><td>效益指标</td><td>社会效益指标</td><td colspan=\"2\">向所外开放共享的设备占比</td><td>100%</td><td>20</td></tr><tr><td>满意度指标</td><td>服务对象满意度指标</td><td colspan=\"2\">设备用户满意度</td><td>≥90%</td><td>10</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                147,
+                167,
+                868,
+                764
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "29"
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                928,
+                509,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "项目绩效目标表"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                401,
+                103,
+                596,
+                126
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(2023 年度)"
+                    }
+                ]
+            },
+            "bbox": [
+                447,
+                143,
+                551,
+                161
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/13e81e46c507441eb7fbbb96c4d2f99d9b575e83b3b5cb376e490997ad20250f.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"2\">项目名称</td><td colspan=\"5\">毫角秒级光学稳像研发装置研制</td></tr><tr><td colspan=\"2\">主管部门及代码</td><td colspan=\"2\">[173]中国科学院</td><td>实施单位</td><td colspan=\"2\">中国科学院国家天文台本级</td></tr><tr><td rowspan=\"4\" colspan=\"2\">项目资金(万元)</td><td colspan=\"2\">年度资金总额:</td><td colspan=\"2\">200.00</td><td rowspan=\"4\">执行率分值(10)</td></tr><tr><td colspan=\"2\">其中:财政拨款</td><td colspan=\"2\">200.00</td></tr><tr><td colspan=\"2\">上年结转资金</td><td colspan=\"2\">0.00</td></tr><tr><td colspan=\"2\">其他资金</td><td colspan=\"2\">0.00</td></tr><tr><td>年度总体目标</td><td colspan=\"6\">研制毫角秒级光学稳像研发装置:1.光学目标模拟器,具备将焦面处靶标投影到无穷远的功能,主要技术指标为口径Φ500mm,视场≥3&#x27;,焦距≥4m,波前≤1/20波长(RMS,633nm)。2.光学稳像成像系统,具备将无穷远目标成像到稳像探测相机和监视相机的功能,主要技术指标为口径Φ500mm,视场≥2&#x27;,焦距≥5m,波前≤1/16波长(RMS,633nm)。</td></tr><tr><td rowspan=\"6\">绩效指标</td><td>一级指标</td><td>二级指标</td><td colspan=\"2\">三级指标</td><td>指标值</td><td>分值权重(90)</td></tr><tr><td>成本指标</td><td>经济成本指标</td><td colspan=\"2\">项目成本</td><td>≤200万元</td><td>20</td></tr><tr><td rowspan=\"2\">产出指标</td><td>数量指标</td><td colspan=\"2\">设备验收合格率</td><td>100%</td><td>20</td></tr><tr><td>数量指标</td><td colspan=\"2\">购置设备数量</td><td>1台</td><td>20</td></tr><tr><td>效益指标</td><td>社会效益指标</td><td colspan=\"2\">向所外开放共享的设备占比</td><td>100%</td><td>20</td></tr><tr><td>满意度指标</td><td>服务对象满意度指标</td><td colspan=\"2\">设备用户满意度</td><td>≥90%</td><td>10</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                147,
+                167,
+                868,
+                764
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "30"
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                928,
+                509,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "项目绩效目标表"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                401,
+                103,
+                596,
+                126
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(2023 年度)"
+                    }
+                ]
+            },
+            "bbox": [
+                447,
+                143,
+                551,
+                161
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/b8e27a901d1a93f2152a049fbd9b98d7427632377ba1a6b3fd5b9f7894416c63.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"2\">项目名称</td><td colspan=\"4\">怀柔太阳观测基地高时空分辨率观测系统</td></tr><tr><td colspan=\"2\">主管部门及代码</td><td>[173]中国科学院</td><td>实施单位</td><td colspan=\"2\">中国科学院国家天文台本级</td></tr><tr><td rowspan=\"4\" colspan=\"2\">项目资金(万元)</td><td>年度资金总额:</td><td colspan=\"2\">120.00</td><td rowspan=\"4\">执行率分值(10)</td></tr><tr><td>其中:财政拨款</td><td colspan=\"2\">120.00</td></tr><tr><td>上年结转资金</td><td colspan=\"2\">0.00</td></tr><tr><td>其他资金</td><td colspan=\"2\">0.00</td></tr><tr><td>年度总体目标</td><td colspan=\"5\">实时太阳图像的高速采集,使用目前较成熟的高分辨率图像重构方法,克服大气湍流的影响,获得接近光学衍射极限的亚角秒高时空分辨率的太阳磁场像和全日面色球H-alpha像,并进行常规观测(指标:空间分辨率优于0.5角秒,时间分辨率磁场数据优于5分钟,色球H-alpha数据优于15秒)。</td></tr><tr><td rowspan=\"6\">绩效指标</td><td>一级指标</td><td>二级指标</td><td>三级指标</td><td>指标值</td><td>分值权重(90)</td></tr><tr><td>成本指标</td><td>经济成本指标</td><td>项目成本</td><td>≤120万元</td><td>20</td></tr><tr><td rowspan=\"2\">产出指标</td><td>数量指标</td><td>设备验收合格率</td><td>100%</td><td>20</td></tr><tr><td>数量指标</td><td>购置设备数量</td><td>2台</td><td>20</td></tr><tr><td>效益指标</td><td>社会效益指标</td><td>向所外开放共享的设备占比</td><td>100%</td><td>20</td></tr><tr><td>满意度指标</td><td>服务对象满意度指标</td><td>设备用户满意度</td><td>≥90%</td><td>10</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                147,
+                166,
+                868,
+                764
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "31"
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                928,
+                507,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "项目绩效目标表"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                401,
+                103,
+                596,
+                126
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(2023 年度)"
+                    }
+                ]
+            },
+            "bbox": [
+                447,
+                143,
+                551,
+                161
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1a6d96ef0a4befd9ccb5fde8a639904cf66b30de7d3a30c055665cf4f0c14b54.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"2\">项目名称</td><td colspan=\"5\">本部大楼公共区域节能改造、旧电梯更新、屋面防水项目</td></tr><tr><td colspan=\"2\">主管部门及代码</td><td colspan=\"2\">[173]中国科学院</td><td>实施单位</td><td colspan=\"2\">中国科学院国家天文台本级</td></tr><tr><td rowspan=\"4\" colspan=\"2\">项目资金(万元)</td><td colspan=\"2\">年度资金总额:</td><td colspan=\"2\">692.51</td><td rowspan=\"4\">执行率分值(10)</td></tr><tr><td colspan=\"2\">其中:财政拨款</td><td colspan=\"2\">692.51</td></tr><tr><td colspan=\"2\">上年结转资金</td><td colspan=\"2\">0.00</td></tr><tr><td colspan=\"2\">其他资金</td><td colspan=\"2\">0.00</td></tr><tr><td>年度总体目标</td><td colspan=\"6\">1.对走廊、办公室、实验室等公共空间进行节能改造;2.更换6部旧电梯;3.各层走廊原石膏板吊顶全部拆除,新做铝方格栅吊顶;4.天文台北楼和LAMOST实验楼屋面防水重做。5.屋面外排雨水口拆除更新,水落管拆除更换。&quot;</td></tr><tr><td rowspan=\"4\">绩效指标</td><td>一级指标</td><td>二级指标</td><td colspan=\"2\">三级指标</td><td>指标值</td><td>分值权重(90)</td></tr><tr><td>成本指标</td><td>经济成本指标</td><td colspan=\"2\">项目成本</td><td>≤692.51万元</td><td>50</td></tr><tr><td>效益指标</td><td>社会效益指标</td><td colspan=\"2\">完善科研生产基础设施</td><td>承担和完成国家和院级重大项目落地的需要</td><td>30</td></tr><tr><td>满意度指标</td><td>服务对象满意度指标</td><td colspan=\"2\">服务对象满意度</td><td>≥90%</td><td>10</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                147,
+                167,
+                868,
+                684
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "32"
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                928,
+                509,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "项目绩效目标表"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                401,
+                93,
+                596,
+                117
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(2023 年度)"
+                    }
+                ]
+            },
+            "bbox": [
+                447,
+                135,
+                549,
+                152
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/5b67df2c36b71ea7ab53e319a3a58b2a18ee70961450607ec5d0c43d4641b796.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"2\">项目名称</td><td colspan=\"4\">国家天文科学数据中心</td></tr><tr><td colspan=\"2\">主管部门及代码</td><td>[173]中国科学院</td><td>实施单位</td><td colspan=\"2\">中国科学院国家天文台本级</td></tr><tr><td rowspan=\"4\" colspan=\"2\">项目资金(万元)</td><td>年度资金总额:</td><td colspan=\"2\">500.00</td><td rowspan=\"4\">执行率分值(10)</td></tr><tr><td>其中:财政拨款</td><td colspan=\"2\">500.00</td></tr><tr><td>上年结转资金</td><td colspan=\"2\">0.00</td></tr><tr><td>其他资金</td><td colspan=\"2\">0.00</td></tr><tr><td>年度总体目标</td><td colspan=\"5\">与EP项目深入合作,持续开展时域天文学数据融合技术研发和服务能力建设,初步满足EP项目科学应用需求;与FAST项目合作,实现信息门户的对外开放,数据中心和数据库建设初步完成并具备数据发布和开放共享条件;实现中心平台与中国科技资源共享网的互联互通。更新NADC科学数据开放目录,完成科技部、财政部和中科院办公厅的考核评估;完成天文科学数据中心双年报(2023版);保持常规数据资源建设和已有数据服务和研发业务的日常运行。</td></tr><tr><td rowspan=\"4\">绩效指标</td><td>一级指标</td><td>二级指标</td><td>三级指标</td><td>指标值</td><td>分值权重(90)</td></tr><tr><td>产出指标</td><td>数量指标</td><td>服务平台网站访问量</td><td>≥13万次</td><td>50</td></tr><tr><td>效益指标</td><td>社会效益指标</td><td>服务用户单位总数量</td><td>≥20个</td><td>30</td></tr><tr><td>满意度指标</td><td>服务对象满意度指标</td><td>用户满意度</td><td>≥90%</td><td>10</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                147,
+                158,
+                868,
+                696
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "33"
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                928,
+                507,
+                940
+            ]
+        }
+    ]
+]

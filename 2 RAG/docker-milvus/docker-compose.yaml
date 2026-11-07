@@ -1,0 +1,27 @@
+services:
+  milvus-standalone-embed:
+    container_name: milvus-standalone-embed
+    image: docker.m.daocloud.io/milvusdb/milvus:v2.6.4
+    command: ["milvus", "run", "standalone"]
+    security_opt:
+      - seccomp:unconfined
+    environment:
+      - ETCD_USE_EMBED=true              # 启用嵌入式 etcd
+      - ETCD_DATA_DIR=/var/lib/milvus/etcd
+      - ETCD_CONFIG_PATH=/milvus/configs/embedEtcd.yaml
+      - COMMON_STORAGETYPE=local         # 使用本地文件系统代替 MinIO
+      - DEPLOY_MODE=STANDALONE
+    volumes:
+      - ./volumes/milvus:/var/lib/milvus # 数据持久化
+      - ./embedEtcd.yaml:/milvus/configs/embedEtcd.yaml
+      - ./user.yaml:/milvus/configs/user.yaml
+    ports:
+      - "19530:19530" # Milvus 核心服务端口
+      - "9091:9091"   # WebUI / 指标端口
+      - "2379:2379"   # 嵌入式 etcd 端口
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9091/healthz"]
+      interval: 30s
+      start_period: 90s
+      timeout: 20s
+      retries: 3
